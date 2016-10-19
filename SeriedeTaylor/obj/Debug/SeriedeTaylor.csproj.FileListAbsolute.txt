@@ -1,0 +1,6 @@
+c:\users\plus desa 01\documents\visual studio 2015\Projects\SeriedeTaylor\SeriedeTaylor\bin\Debug\SeriedeTaylor.exe.config
+c:\users\plus desa 01\documents\visual studio 2015\Projects\SeriedeTaylor\SeriedeTaylor\bin\Debug\SeriedeTaylor.exe
+c:\users\plus desa 01\documents\visual studio 2015\Projects\SeriedeTaylor\SeriedeTaylor\bin\Debug\SeriedeTaylor.pdb
+c:\users\plus desa 01\documents\visual studio 2015\Projects\SeriedeTaylor\SeriedeTaylor\obj\Debug\SeriedeTaylor.csprojResolveAssemblyReference.cache
+c:\users\plus desa 01\documents\visual studio 2015\Projects\SeriedeTaylor\SeriedeTaylor\obj\Debug\SeriedeTaylor.exe
+c:\users\plus desa 01\documents\visual studio 2015\Projects\SeriedeTaylor\SeriedeTaylor\obj\Debug\SeriedeTaylor.pdb
