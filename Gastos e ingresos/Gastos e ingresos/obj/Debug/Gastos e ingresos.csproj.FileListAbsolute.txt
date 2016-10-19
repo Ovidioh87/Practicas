@@ -1,0 +1,6 @@
+c:\users\plus desa 01\documents\visual studio 2015\Projects\Gastos e ingresos\Gastos e ingresos\bin\Debug\Gastos e ingresos.exe.config
+c:\users\plus desa 01\documents\visual studio 2015\Projects\Gastos e ingresos\Gastos e ingresos\obj\Debug\Gastos e ingresos.csprojResolveAssemblyReference.cache
+C:\Users\Plus Desa 01\Documents\Visual Studio 2015\Projects\Gastos e ingresos\Gastos e ingresos\bin\Debug\Gastos e ingresos.exe
+C:\Users\Plus Desa 01\Documents\Visual Studio 2015\Projects\Gastos e ingresos\Gastos e ingresos\bin\Debug\Gastos e ingresos.pdb
+C:\Users\Plus Desa 01\Documents\Visual Studio 2015\Projects\Gastos e ingresos\Gastos e ingresos\obj\Debug\Gastos e ingresos.exe
+C:\Users\Plus Desa 01\Documents\Visual Studio 2015\Projects\Gastos e ingresos\Gastos e ingresos\obj\Debug\Gastos e ingresos.pdb

@@ -1,0 +1,6 @@
+c:\users\plus desa 01\documents\visual studio 2015\Projects\BOLIGRAFO\BOLIGRAFO\bin\Debug\BOLIGRAFO.exe.config
+c:\users\plus desa 01\documents\visual studio 2015\Projects\BOLIGRAFO\BOLIGRAFO\bin\Debug\BOLIGRAFO.exe
+c:\users\plus desa 01\documents\visual studio 2015\Projects\BOLIGRAFO\BOLIGRAFO\bin\Debug\BOLIGRAFO.pdb
+c:\users\plus desa 01\documents\visual studio 2015\Projects\BOLIGRAFO\BOLIGRAFO\obj\Debug\BOLIGRAFO.csprojResolveAssemblyReference.cache
+c:\users\plus desa 01\documents\visual studio 2015\Projects\BOLIGRAFO\BOLIGRAFO\obj\Debug\BOLIGRAFO.exe
+c:\users\plus desa 01\documents\visual studio 2015\Projects\BOLIGRAFO\BOLIGRAFO\obj\Debug\BOLIGRAFO.pdb

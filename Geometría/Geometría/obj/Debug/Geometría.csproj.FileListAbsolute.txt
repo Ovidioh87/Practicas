@@ -1,0 +1,6 @@
+c:\users\plus desa 01\documents\visual studio 2015\Projects\Geometría\Geometría\bin\Debug\Geometría.exe.config
+c:\users\plus desa 01\documents\visual studio 2015\Projects\Geometría\Geometría\obj\Debug\Geometría.csprojResolveAssemblyReference.cache
+c:\users\plus desa 01\documents\visual studio 2015\Projects\Geometría\Geometría\bin\Debug\Geometría.exe
+c:\users\plus desa 01\documents\visual studio 2015\Projects\Geometría\Geometría\bin\Debug\Geometría.pdb
+c:\users\plus desa 01\documents\visual studio 2015\Projects\Geometría\Geometría\obj\Debug\Geometría.exe
+c:\users\plus desa 01\documents\visual studio 2015\Projects\Geometría\Geometría\obj\Debug\Geometría.pdb
