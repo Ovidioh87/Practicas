@@ -1,0 +1,6 @@
+c:\users\plus desa 01\documents\visual studio 2015\Projects\ConsoleApplication15\ConsoleApplication15\bin\Debug\ConsoleApplication15.exe.config
+c:\users\plus desa 01\documents\visual studio 2015\Projects\ConsoleApplication15\ConsoleApplication15\obj\Debug\ConsoleApplication15.csprojResolveAssemblyReference.cache
+c:\users\plus desa 01\documents\visual studio 2015\Projects\ConsoleApplication15\ConsoleApplication15\bin\Debug\ConsoleApplication15.exe
+c:\users\plus desa 01\documents\visual studio 2015\Projects\ConsoleApplication15\ConsoleApplication15\bin\Debug\ConsoleApplication15.pdb
+c:\users\plus desa 01\documents\visual studio 2015\Projects\ConsoleApplication15\ConsoleApplication15\obj\Debug\ConsoleApplication15.exe
+c:\users\plus desa 01\documents\visual studio 2015\Projects\ConsoleApplication15\ConsoleApplication15\obj\Debug\ConsoleApplication15.pdb
